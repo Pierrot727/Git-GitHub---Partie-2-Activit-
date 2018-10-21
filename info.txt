@@ -1,1 +1,3 @@
 Ceci est l'explication du projet blablablabla
+
+On essaye à présent de faire des commit unb peu plus propre
