@@ -1,5 +1,5 @@
 /*!
- * Ceci est un baratin
+ * Mddfication du nom
  */
 
 if (typeof jQuery === 'undefined') {
